@@ -1,0 +1,14 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по CI/CD
+site_author: Демидов Иван Вадимович
+repo_name: uz3ix/devops-docs-mirea
+repo_url: https://github.com/uz3ix/devops-docs-mirea
+
+theme:
+  name: mkdocs
+  language: ru
+
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
